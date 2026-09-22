@@ -2,7 +2,7 @@
 
 Official implementation of **“Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing”**, presented at **The 14th Computing Conference 2026**.
 
-Work done by Vishwanath Vinod under the guidance of Professor Rachel Kalpana Kalaimani as part of an Undergraduate Research Project at IIT Madras.
+Work done by Vishwanath Vinod under the guidance of Professor Rachel Kalpana Kalaimani for an Undergraduate Research Project at IIT Madras.
 
 ---
 ## Paper
