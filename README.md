@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Vishwanath-Vinod=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)# FairSwarm: A Cooperative Multi-Agent Reinforcement Learning Algorithm for Fair Dynamic Pricing
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Vishwanath-Vinod=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
+# FairSwarm: A Cooperative Multi-Agent Reinforcement Learning Algorithm for Fair Dynamic Pricing
 
 Official implementation of **“Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing,”** published in the proceedings of the 14th Computing Conference 2026, London, UK.
 
