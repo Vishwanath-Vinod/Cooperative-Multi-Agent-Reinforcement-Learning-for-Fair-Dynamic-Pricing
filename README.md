@@ -62,8 +62,8 @@ The dual-reward formulation and its trade-off between fairness and profitability
 ## Getting Started
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone <https://github.com/Vishwanath-Vinod/Cooperative-Multi-Agent-Reinforcement-Learning-for-Fair-Dynamic-Pricing.git>
+cd <Cooperative-Multi-Agent-Reinforcement-Learning-for-Fair-Dynamic-Pricing>
 pip install -r requirements.txt
 ```
 
