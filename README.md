@@ -1,4 +1,4 @@
-# FairSwarm: Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing
+# FairSwarm: A Cooperative Multi-Agent Reinforcement Learning Algorithm for Fair Dynamic Pricing
 
 Official implementation of **“Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing,”** published in the proceedings of the 14th Computing Conference 2026, London, UK.
 
