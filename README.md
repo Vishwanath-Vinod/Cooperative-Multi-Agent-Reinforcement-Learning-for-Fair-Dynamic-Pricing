@@ -6,11 +6,11 @@ Work done by Vishwanath Vinod under the guidance of Professor Rachel Kalpana Kal
 
 ---
 ## Paper
-**Title**:  Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing
-**Authors:** Vishwanath Vinod and Rachel Kalpana Kalaimani
-**Institution:** Indian Institute of Technology Madras
-**Conference:** The 14th Computing Conference 2026, London, United Kingdom, 9–10 July 2026
-**Link to Paper:** Computing Conference Proceedings \href{https://link.springer.com/chapter/10.1007/978-3-032-24804-6_11}{(here)}
+*Title*:  Cooperative Multi-Agent Reinforcement Learning for Fair Dynamic Pricing \\
+*Authors:* Vishwanath Vinod and Rachel Kalpana Kalaimani \\
+*Institution:* Indian Institute of Technology Madras \\
+*Conference:* The 14th Computing Conference 2026, London, United Kingdom, 9–10 July 2026 \\
+*Link to Paper:* Computing Conference Proceedings \href{https://link.springer.com/chapter/10.1007/978-3-032-24804-6_11}{(here)}
 
 ---
 
