@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Vishwanath-Vinod=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Vishwanath-Vinod)](https://github.com/stats-organization/github-stats-extended)
 
 # FairSwarm: A Cooperative Multi-Agent Reinforcement Learning Algorithm for Fair Dynamic Pricing
 
