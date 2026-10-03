@@ -26,7 +26,7 @@ The framework is evaluated in simulated dynamic-pricing environments with varyin
 ## Architecture
 
 <p align="center">
-  <img src="images/architecture.png" alt="FairSwarm framework architecture" width="800">
+  <img src="architecture.png" alt="FairSwarm framework architecture" width="800">
 </p>
 
 *Overview of the proposed cooperative multi-agent learning framework.*
